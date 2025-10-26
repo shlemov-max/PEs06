@@ -1,0 +1,9 @@
+dotenv
+
+langchain
+langchain_gigachat
+langchain_core
+
+python-telegram-bot
+
+openai
